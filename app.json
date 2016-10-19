@@ -1,0 +1,1 @@
+{"name":"Inferring associated collection ownership","repository":"https://github.com/initialversion/inferring_associated_collec","env":{"CLOUDINARY_CLOUD_NAME":{"required":true},"CLOUDINARY_API_KEY":{"required":true},"CLOUDINARY_API_SECRET":{"required":true},"ROLLBAR_ACCESS_TOKEN":{"required":true}}}
